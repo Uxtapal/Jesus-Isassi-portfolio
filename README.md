@@ -5,7 +5,7 @@ A plain HTML/CSS/JS portfolio site with interactive 3D model viewers, built to r
 The 3D viewer is Google's [`<model-viewer>`](https://modelviewer.dev/) web component. It handles `.glb`/`.gltf` files, lets visitors orbit/zoom with the mouse or touch, and supports "View in AR" on phones for free.
 
 ---
-
+ 
 ## 1. Try it locally
 
 Because the page loads model files, some browsers block it if you just double-click `index.html` (CORS). Easiest fix — serve the folder locally:
