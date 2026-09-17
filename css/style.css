@@ -37,6 +37,7 @@ a { color: inherit; }
 
 model-viewer {
   --poster-color: transparent;
+  background-color: #433727a1;
   width: 100%;
   height: 100%;
 }
