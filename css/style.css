@@ -213,8 +213,8 @@ model-viewer {
 
 .about-body p { margin: 0 0 16px; }
 
-/* ---- Detail overlay ---- */
-.detail-overlay {
+/* ---- il overlay ---- */
+.il-overlay {
   position: fixed;
   inset: 0;
   z-index: 50;
@@ -251,7 +251,7 @@ model-viewer {
 .detail-overlay.is-open .detail-panel { transform: translateY(0); }
 
 .detail-viewer {
-  background: #0f0e0d;
+  background: #85705b;
   min-height: 360px;
 }
 
